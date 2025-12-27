@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 申请友链
+    url: https://github.com/Ad-closeNN/form/issues/new/choose
+    about: 迁移至 Ad-closeNN/form
